@@ -1,9 +1,3 @@
-# SQL-Challenge
-Week 9 Assignment
+# Employee Queries
 
-PLEASE READ...
-
-I changed some of the csv files so that Emp_No was the first column followed by Dept_No.
-When grading, please keep that in mind if my code doesn't work for you.
-
-Thank you.
+Using SQL, the focus was to write code in order to pull employee records and ensure data integrity and quality standards. 
